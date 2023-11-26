@@ -20,7 +20,7 @@ body{
     height: 30rem;
     border: 20px solid white;
     border-radius: 50%;
-    margin:  50px auto;
+    margin:  45px auto;
     padding: 2rem;
     box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.1),
     inset 0 0 0 3px #efefef,
@@ -66,4 +66,15 @@ body{
 
 .second-hand{
     background: yellow;
+}
+
+.digital-clock{
+    font-size: 12rem;
+    color: white;
+    width: 670px;
+}
+
+.time{
+    padding-right: 300px;
+    text-shadow: 2px 2px 4px black;
 }
